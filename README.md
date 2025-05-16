@@ -20,4 +20,4 @@ The GMLinux is a gamer Linux distribution
 ---
 
 🔧 Criado com [Cubic](https://launchpad.net/cubic)  
-🧠 Projeto pessoal de `@seu-usuario`
+🧠 Projeto pessoal de `MHCel`
